@@ -21,4 +21,4 @@ These notebooks are not intended to be production-ready analyses. They are itera
 * pandas
 * matplotlib
 * seaborn
-* Maybe julia will make an appearance
+* Maybe Julia will make an appearance
